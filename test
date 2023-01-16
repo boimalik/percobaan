@@ -191,16 +191,23 @@ http://103.167.167.5:8111/play/a01n/index.m3u8
 
 
 #EXTINF:-1 group-title="Lokal Nasional",SCTV 
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",Indosiar
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+#EXTINF:-1 group-title="Lokal Nasional",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 group-title="Lokal Nasional",NET HD
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",ANTV
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",Tv One
+#EXTINF:-1 group-title="Lokal Nasional",TVOne
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
 #EXTINF:-1 group-title="Lokal Nasional",Moji
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",Trans Tv 
+#EXTINF:-1 group-title="Lokal Nasional",Trans Tv
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wY3HM-qybNNLUB_xqRJSaH0/ts
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",Trans 7
 http://iptvtree.net:8080/nika/ee07c53d/162502
@@ -208,20 +215,18 @@ http://iptvtree.net:8080/nika/ee07c53d/162502
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",RCTI
+http://iptvtree.net:8080/eecf914e/7f10a1f56d/157591
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",MNC
 http://iptvtree.net:8080/nika/ee07c53d/165054
 #EXTINF:-1 group-title="Lokal Nasional",GTV
+https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",iNews
 http://iptvtree.net:8080/nika/ee07c53d/157579
-#EXTINF:-1 group-title="Lokal Nasional",NET HD
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",Kompas Tv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",Metro Tv
@@ -242,25 +247,28 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Lokal Nasional",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",Elshinta Tv
-http://210.210.155.35/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",JPM
-http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",JawaPos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",NTV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 group-title="Lokal Nasional",BBS Tv
-http://103.119.54.246:8080/hls/bbstv.m3u8
 
+
+#EXTINF:-1 group-title="Lokal Daerah",Elshinta Tv
+http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",JPM
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",JawaPos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",NTV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",BBS Tv
+http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 group-title="Lokal Daerah",Bali Tv 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1 group-title="Lokal Daerah",ADi Tv
 https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="Lokal Daerah",BRTV 
+https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Daerah",El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
 #EXTINF:-1 group-title="Lokal Daerah",Jaya Tv
@@ -317,16 +325,24 @@ http://51.79.82.208:16001
 #EXTINF:-1 group-title="Malaysia",NTV 7
 http://iptvtree.net:8080/nika/ee07c53d/174695
 
-#EXTINF:-1 group-title="Movies",Celestial Moves 
+#EXTINF:-1 group-title="Movies",Rock Entertainment 
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="Movies",Rock Extreme 
+http://rr1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 group-title="Movies",Celestial Movies 
 http://iptvtree.net:8080/nika/ee07c53d/174687
 #EXTINF:-1 group-title="Movies",Celestial Classic Movies
-#http://w.nasvpn.xyz:8080/live/saya/saya/5728.ts
+http://w.nasvpn.xyz:8080/live/saya/saya/5728.ts
 #EXTINF:-1 group-title="Movies",Cinema World
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 group-title="Movies",My Cinema 
 http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 group-title="Movies",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 group-title="Movies",My Cinema Europe
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="Movies",My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="Movies",Thrill
 http://iptvtree.net:8080/nika/ee07c53d/157580
@@ -335,8 +351,6 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 group-title="Movies",Hits
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 group-title="Movies",Paramount Movie Channel
-https://bit.ly/3JDTFWj
 #EXTINF:-1 group-title="Movies",AXN
 http://iptvtree.net:8080/nika/ee07c53d/157542
 #EXTINF:-1 group-title="Movies",ZEE Bioskop
@@ -347,19 +361,22 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 group-title="Movies",Rock Entertainment 
-http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
-#EXTINF:-1 group-title="Movies",Rock Extreme 
-http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+#EXTINF:-1 group-title="Movies",Paramount Movie Channel
+https://bit.ly/3JDTFWj
 
-#EXTINF:-1 group-title="Kids",Aniplus 
-#http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts
+#EXTINF:-1 group-title="Kids",Aniplus
+http://rr1.dens.tv/h/h02/01.m3u8
+http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://iptvtree.net:8080/nika/ee07c53d/174684
+#EXTINF:-1 group-title="Kids",Boomerang
+http://iptvtree.net:8080/nika/ee07c53d/171955
+#EXTINF:-1 group-title="Kids",Happy Kids 
+https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Happy Kids Jr
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Kidoodle.TV
 https://bit.ly/3c7D00I
-#EXTINF:-1 group-title="Kids",Happy Kids 
-https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Disney Jr
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
 #EXTINF:-1 group-title="Kids",Disney XD
@@ -372,6 +389,8 @@ http://208.86.19.13:81/15.stream/index.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 #EXTINF:-1 group-title="Kids",Nickelodeon
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 group-title="Kids",M-Kidz
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="Kids",Biznet Kids
 https://bit.ly/3wktP4Z
 #EXTINF:-1 group-title="Kids",Duck TV 
@@ -380,7 +399,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",M Kids
+#EXTINF:-1 group-title="Kids",Totally Turtles
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 group-title="Kids",Pinkfong Baby Shark HD 
 https://bit.ly/3uRAsun
@@ -396,12 +415,8 @@ https://tinyurl.com/SuperToons
 https://tinyurl.com/TiviMe-YAAAS
 #EXTINF:-1 group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Boomerang
-http://iptvtree.net:8080/nika/ee07c53d/171955
 #EXTINF:-1 group-title="Kids",Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network
-http://iptvtree.net:8080/nika/ee07c53d/174684
 #EXTINF:-1 group-title="Kids",Tiny Pop
 http://87.212.248.44:60130/play/a08c
 #EXTINF:-1 group-title="Kids",CBBC HD
@@ -635,13 +650,14 @@ http://w.nasvpn.xyz:8080/live/saya/saya/1039.ts
 #EXTINF:-1 group-title="Korea",TVN Movies
 http://iptvtree.net:8080/nika/ee07c53d/157596
 
-
+#EXTINF:-1 group-title="Religi",AlQuran Kareem
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="Religi",ASsunnah
+http://rr2.dens.tv/s/s27/01.m3u8
 #EXTINF:-1 group-title="Religi",MTA Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
 #EXTINF:-1 group-title="Religi",Rodja Tv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
-#EXTINF:-1 group-title="Lokal Daerah",BRTV 
-https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religi",Bin Baz
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-1 group-title="Religi",Ahsan Tv
