@@ -326,6 +326,8 @@ http://iptvtree.net:8080/nika/ee07c53d/174687
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 group-title="Movies",My Cinema 
 http://210.210.155.37/uq2663/h/h192/index.m3u8
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="Movies",Thrill
 http://iptvtree.net:8080/nika/ee07c53d/157580
 #EXTINF:-1 group-title="Movies",Movie Time
@@ -345,6 +347,10 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="Movies",Rock Entertainment 
+http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+#EXTINF:-1 group-title="Movies",Rock Extreme 
+http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 
 #EXTINF:-1 group-title="Kids",Aniplus 
 #http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts
@@ -469,26 +475,29 @@ http://ipgurl.xyz:80/live/GRLDGVRXPM/ZMV4VGAAKU/549.ts
 http://ipgurl.xyz:80/live/GRLDGVRXPM/ZMV4VGAAKU/548.ts
 #EXTINF:-1 group-title="Sports",Alkaz Sports 1
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
+
+
 #EXTINF:-1 group-title="Music",MTV Biggest Pop 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Music",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Sports",MTV Spankin New
+#EXTINF:-1 group-title="Music",MTV Spankin New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
 #EXTINF:-1 group-title="Music",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="Music",MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Music",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Music",Pop
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Music",Vevo "70s
 https://bit.ly/3Qmd94Z
 #EXTINF:-1 group-title="Music",Vevo "80s
 https://bit.ly/39whMZD
 #EXTINF:-1 group-title="Music",Vevo "90s
 https://bit.ly/39DzTg5
-#EXTINF:-1 group-title="Sports",One Music
+#EXTINF:-1 group-title="Music",One Music
 http://rtmp.one.by:1300
 
 #EXTINF:-1 group-title="News",Bloomberg
@@ -594,10 +603,6 @@ https://ign-plex.amagi.tv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Knowledge",HGTV Asia
 http://iptvtree.net:8080/nika/ee07c53d/157553
-#EXTINF:-1 group-title="Knowledge",Rock Entertainment 
-http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
-#EXTINF:-1 group-title="Knowledge",Rock Extreme 
-http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 #EXTINF:-1 group-title="Knowledge",Smithsonian Channel HD
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Knowledge",Samsung Wild life
@@ -614,7 +619,7 @@ http://rr.dens.tv/h/h09/index.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="Knowledge",Discovery Shed
+#EXTINF:-1 group-title="Knowledge",DMAX
 http://87.212.248.44:60130/play/a04w
 #EXTINF:-1 group-title="Knowledge",Discovery Channel
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862652&extension=m3u8
@@ -625,6 +630,7 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Korea",KIX 
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF:-1 group-title="Korea",TVN
+https://stream.semeru.plus:443/play/xYwQFS4CS3f0_OVZgPj9wb0UmTCqIWqmBCuAZ13ATSw/ts
 http://w.nasvpn.xyz:8080/live/saya/saya/1039.ts
 #EXTINF:-1 group-title="Korea",TVN Movies
 http://iptvtree.net:8080/nika/ee07c53d/157596
