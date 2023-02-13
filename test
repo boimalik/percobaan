@@ -1,194 +1,193 @@
 #EXTM3U
 
-
-#EXTINF:-1  group-title="transvison" ,ABU DHABI SPORT 1
-http://103.167.167.5:8111/play/a03l/index.m3u8
-#EXTINF:-1  group-title="transvison" ,ABU DHABI SPORT 2
-http://103.167.167.5:8111/play/a03m/index.m3u8
-#EXTINF:-1  group-title="transvison" ,AXN (192.168.240.39)
+#EXTINF:-1  group-title="transvison" ,ANIMAX
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1  group-title="transvison" ,ANIPLUS
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1  group-title="transvison" ,AXN
 http://103.167.167.5:8111/play/a019/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP (192.168.240.17)
-http://103.167.167.5:8111/play/a00n/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 2 (192.168.240.41)
-http://103.167.167.5:8111/play/a01b/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 3 (192.168.240.48)
-http://103.167.167.5:8111/play/a01i/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 4 (192.168.240.49)
-http://103.167.167.5:8111/play/a01j/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 5 (192.168.240.50)
-http://103.167.167.5:8111/play/a01k/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 6(176.16.201.3)
-http://103.167.167.5:8111/play/a01m/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BACKUP 8 (176.16.201.6)
-http://103.167.167.5:8111/play/a01o/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BEIN 1 (192.168.240.35)
-http://103.167.167.5:8111/play/a015/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BEIN 3 (192.168.240.25)
-http://103.167.167.5:8111/play/a00v/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BLOOMBERG (192.168.240.6)
+#EXTINF:-1  group-title="transvison" ,BEIN SPORTS 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BEIN SPORTS 3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BLOOMBERG
 http://103.167.167.5:8111/play/a01t/index.m3u8
-#EXTINF:-1  group-title="transvison" ,BN TV
+#EXTINF:-1  group-title="transvison" ,BN CHANNEL
 http://103.167.167.5:8111/play/a00b/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CARTOON NETWORK (192.168.240.27)
+#EXTINF:-1  group-title="transvison" ,CARTOON NETWORK
 http://103.167.167.5:8111/play/a00x/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CELESTIAL CLASSIC MOVIES (176.16.201.9)
+#EXTINF:-1  group-title="transvison" ,CARTOON NETWORK
+http://103.167.167.5:8111/play/a03g/index.m3u8
+#EXTINF:-1  group-title="transvison" ,CELESTIAL CLASSIC MOVIES
 http://103.167.167.5:8111/play/a01r/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CELESTIAL MOVIES (192.168.240.23)
+#EXTINF:-1  group-title="transvison" ,CELESTIAL MOVIES
 http://103.167.167.5:8111/play/a00t/index.m3u8
 #EXTINF:-1  group-title="transvison" ,CETV1
 http://103.167.167.5:8111/play/a002/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CHAMPION 1 (176.16.201.7)
+#EXTINF:-1  group-title="transvison" ,CHAMPION 1
 http://103.167.167.5:8111/play/a01p/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CHAMPION 2 (176.16.201.8)
+#EXTINF:-1  group-title="transvison" ,CHAMPION 2
 http://103.167.167.5:8111/play/a01q/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CHANNEL 5 (192.168.240.28)
-http://103.167.167.5:8111/play/a00y/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CHANNEL 8 (192.168.240.36)
+#EXTINF:-1  group-title="transvison" ,CHANNEL 8
 http://103.167.167.5:8111/play/a016/index.m3u8
-#EXTINF:-1  group-title="transvison" ,CINEMA WORLD (192.168.240.45)
+#EXTINF:-1  group-title="transvison" ,CINEMA WORLD
 http://103.167.167.5:8111/play/a01f/index.m3u8
-#EXTINF:-1  group-title="transvison" ,DAAI TSU ZHI (192.168.240.3)
+#EXTINF:-1  group-title="transvison" ,CINEMAX
+http://103.167.167.5:8111/play/a00s/index.m3u8
+#EXTINF:-1  group-title="transvison" ,CNN INDONESIA
+http://103.167.167.5:8111/play/a02q/index.m3u8
+#EXTINF:-1  group-title="transvison" ,DAAI TSU ZHI
 http://103.167.167.5:8111/play/a01s/index.m3u8
 #EXTINF:-1  group-title="transvison" ,DISCOVERY
 http://103.167.167.5:8111/play/a03w/index.m3u8
-#EXTINF:-1  group-title="transvison" ,DW TV
-http://103.167.167.5:8111/play/a03n/index.m3u8
 #EXTINF:-1  group-title="transvison" ,FASHION TV
 http://103.167.167.5:8111/play/a03d/index.m3u8
-#EXTINF:-1  group-title="transvison" ,FIGHT SPIRIT
-http://103.167.167.5:8111/play/a03h/index.m3u8
 #EXTINF:-1  group-title="transvison" ,FJTV
 http://103.167.167.5:8111/play/a005/index.m3u8
-#EXTINF:-1  group-title="transvison" ,GALAXY (192.168.240.12)
-http://103.167.167.5:8111/play/a00j/index.m3u8
-#EXTINF:-1  group-title="transvison" ,GALAXY PREMIUM (192.168.240.21)
-http://103.167.167.5:8111/play/a00s/index.m3u8
-#EXTINF:-1  group-title="transvison" ,GTV (192.168.240.34)
+#EXTINF:-1  group-title="transvison" ,GTV
 http://103.167.167.5:8111/play/a014/index.m3u8
-#EXTINF:-1  group-title="transvison" ,HAARI DRAMA (192.168.240.9)
+#EXTINF:-1  group-title="transvison" ,HAARI DRAMA
 http://103.167.167.5:8111/play/a01z/index.m3u8
-#EXTINF:-1  group-title="transvison" ,HAARI KIDS (192.168.240.7)
+#EXTINF:-1  group-title="transvison" ,HAARI KIDS
 http://103.167.167.5:8111/play/a00g/index.m3u8
-#EXTINF:-1  group-title="transvison" ,HAARI MOVIES (192.168.240.8)
+#EXTINF:-1  group-title="transvison" ,HAARI MOVIES
 http://103.167.167.5:8111/play/a00h/index.m3u8
-#EXTINF:-1  group-title="transvison" ,IND - ANIMAX
-http://103.167.167.5:8111/play/a030/index.m3u8
-#EXTINF:-1  group-title="transvison" ,IND-ANIPLUS
-http://103.167.167.5:8111/play/a033/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - BEIN 1
-http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - BEIN 3
-http://103.167.167.5:8111/play/a02n/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - CNN INDONESIA
-http://103.167.167.5:8111/play/a02q/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - FORMOSA TV
-http://103.167.167.5:8111/play/a034/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - GALAXY
-http://103.167.167.5:8111/play/a02h/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - HITS
-http://103.167.167.5:8111/play/a043/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - OTOMOTO
-http://103.167.167.5:8111/play/a047/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - SPOTV 2 HD
-http://103.167.167.5:8111/play/a028/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDI - TVN
-http://103.167.167.5:8111/play/a02u/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INDOSIAR (192.168.240.20)
+#EXTINF:-1  group-title="transvison" ,INDOSIAR
 http://103.167.167.5:8111/play/a00r/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INHOUSE-JBV2
+#EXTINF:-1  group-title="transvison" ,JBV2
 http://103.167.167.5:8111/play/a006/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INHOUSE-JBV3
+#EXTINF:-1  group-title="transvison" ,JBV3
 http://103.167.167.5:8111/play/a007/index.m3u8
-#EXTINF:-1  group-title="transvison" ,INHOUSE-JBV4
+#EXTINF:-1  group-title="transvison" ,JBV4
 http://103.167.167.5:8111/play/a008/index.m3u8
 #EXTINF:-1  group-title="transvison" ,KBS-WORLD
 http://103.167.167.5:8111/play/a03a/index.m3u8
-#EXTINF:-1  group-title="transvison" ,KIDS CENTRAL
-http://103.167.167.5:8111/play/a03u/index.m3u8
-#EXTINF:-1  group-title="transvison" ,KIX (192.168.240.19)
+#EXTINF:-1  group-title="transvison" ,KIX
 http://103.167.167.5:8111/play/a00p/index.m3u8
 #EXTINF:-1  group-title="transvison" ,LEGO
 http://103.167.167.5:8111/play/a03c/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MAGNA CHANNEL
+#EXTINF:-1  group-title="transvison" ,MAGNA TV
 http://103.167.167.5:8111/play/a00a/index.m3u8
 #EXTINF:-1  group-title="transvison" ,METRO TV HD
 http://103.167.167.5:8111/play/a00c/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MING XE (192.168.240.26)
+#EXTINF:-1  group-title="transvison" ,MING XE
 http://103.167.167.5:8111/play/a00w/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MNC TV (192.168.240.31)
+#EXTINF:-1  group-title="transvison" ,MNC TV
 http://103.167.167.5:8111/play/a011/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MTV (192.168.240.22)
+#EXTINF:-1  group-title="transvison" ,MNC SPORTS 2
+http://103.167.167.5:8111/play/a00v/index.m3u8
+#EXTINF:-1  group-title="transvison" ,MTV
 http://103.167.167.5:8111/play/a00q/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MTV ASIA (192.168.240.38)
+#EXTINF:-1  group-title="transvison" ,MTV 90'S
 http://103.167.167.5:8111/play/a018/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MY CINEMA (192.168.240.47)
+#EXTINF:-1  group-title="transvison" ,MY CINEMA (KVISION)
 http://103.167.167.5:8111/play/a01h/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MY CINEMA ASIA (192.168.240.46)
+#EXTINF:-1  group-title="transvison" ,MY CINEMA ASIA (KVISION)
 http://103.167.167.5:8111/play/a01g/index.m3u8
-#EXTINF:-1  group-title="transvison" ,MY FAMILY (192.168.240.14)
+#EXTINF:-1  group-title="transvison" ,MY FAMILY (KVISION)
 http://103.167.167.5:8111/play/a00k/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NASA
-http://103.167.167.5:8111/play/a037/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NAT GEO WILD (192.168.240.43)
+#EXTINF:-1  group-title="transvison" ,NAT GEO WILD
 http://103.167.167.5:8111/play/a01d/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NGC (192.168.240.13)
+#EXTINF:-1  group-title="transvison" ,NATIONAL GEOGRAPHIC
 http://103.167.167.5:8111/play/a036/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NICK (192.168.240.4)
+#EXTINF:-1  group-title="transvison" ,NICKELODEON
 http://103.167.167.5:8111/play/a00e/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NICK JR (192.168.240.5)
+#EXTINF:-1  group-title="transvison" ,NICK JR
 http://103.167.167.5:8111/play/a00f/index.m3u8
-#EXTINF:-1  group-title="transvison" ,NIMBUS PLAYOUT
-http://103.167.167.5:8111/play/a03t/index.m3u8
-#EXTINF:-1  group-title="transvison" ,RCTI (192.168.240.42)
+#EXTINF:-1  group-title="transvison" ,RCTI
 http://103.167.167.5:8111/play/a01c/index.m3u8
-#EXTINF:-1  group-title="transvison" ,ROCK ENTERTAINMENT (192.168.240.44)
+#EXTINF:-1  group-title="transvison" ,ROCK ENTERTAINMENT
 http://103.167.167.5:8111/play/a01e/index.m3u8
-#EXTINF:-1  group-title="transvison" ,ROCK EXTREME (192.168.240.16)
+#EXTINF:-1  group-title="transvison" ,ROCK ACTION
 http://103.167.167.5:8111/play/a00m/index.m3u8
-#EXTINF:-1  group-title="transvison" ,RUSAK (192.168.240.15)
-http://103.167.167.5:8111/play/a00l/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SCTV (192.168.240.18)
+#EXTINF:-1  group-title="transvison" ,SCTV
 http://103.167.167.5:8111/play/a00o/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SCTV BACKUP
+#EXTINF:-1  group-title="transvison" ,SCTV HD
 http://103.167.167.5:8111/play/a048/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SET INT (192.168.240.33)
+#EXTINF:-1  group-title="transvison" ,SET INT
 http://103.167.167.5:8111/play/a013/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SET TV (192.168.240.32)
+#EXTINF:-1  group-title="transvison" ,SET TV
 http://103.167.167.5:8111/play/a012/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SOCCER (192.168.240.11)
+#EXTINF:-1  group-title="transvison" ,SOCCER
 http://103.167.167.5:8111/play/a00i/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SONY GEM (192.168.240.29)
+#EXTINF:-1  group-title="transvison" ,SONY GEM
 http://103.167.167.5:8111/play/a00z/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SONY ONE 2 (192.168.240.24)
+#EXTINF:-1  group-title="transvison" ,SONY ONE
 http://103.167.167.5:8111/play/a00u/index.m3u8
 #EXTINF:-1  group-title="transvison" ,SPOTV
-http://103.167.167.5:8111/play/a03s/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SPOTV 1 (192.168.240.10)
 http://103.167.167.5:8111/play/a020/index.m3u8
-#EXTINF:-1  group-title="transvison" ,SPOTV 2 (192.168.240.30)
+#EXTINF:-1  group-title="transvison" ,SPOTV 2
 http://103.167.167.5:8111/play/a010/index.m3u8
 #EXTINF:-1  group-title="transvison" ,THRILL
-http://103.167.167.5:8111/play/a03v/index.m3u8
-#EXTINF:-1  group-title="transvison" ,THRILL(176.16.201.2)
 http://103.167.167.5:8111/play/a01l/index.m3u8
-#EXTINF:-1  group-title="transvison" ,TVRI Kanal 3
+#EXTINF:-1  group-title="transvison" ,TV3
+http://103.167.167.5:8111/play/a00y/index.m3u8
+#EXTINF:-1  group-title="transvison" ,TV5 MONDE ASIE
+http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1  group-title="transvison" ,TVN MOVIES
+http://103.167.167.5:8111/play/a02u/index.m3u8
+#EXTINF:-1  group-title="transvison" ,TVRI WORLD
 http://103.167.167.5:8111/play/a01w/index.m3u8
 #EXTINF:-1  group-title="transvison" ,TVRI Nasional
 http://103.167.167.5:8111/play/a01v/index.m3u8
 #EXTINF:-1  group-title="transvison" ,TVRI Sport
 http://103.167.167.5:8111/play/a01x/index.m3u8
-#EXTINF:-1  group-title="transvison" ,WB (192.168.240.37)
+#EXTINF:-1  group-title="transvison" ,WARNER
 http://103.167.167.5:8111/play/a017/index.m3u8
 #EXTINF:-1  group-title="transvison" ,WFC
 http://103.167.167.5:8111/play/a03e/index.m3u8
 #EXTINF:-1  group-title="transvison" ,ZEE BIOSKOP
-http://103.167.167.5:8111/play/a03g/index.m3u8
-#EXTINF:-1  group-title="transvison" ,ZEE BIOSKOP (192.168.240.40)
 http://103.167.167.5:8111/play/a01a/index.m3u8
-#EXTINF:-1  group-title="transvison" ,ZHEJIANG (176.16.201.4)
+#EXTINF:-1  group-title="transvison" ,ZHEJIANG
 http://103.167.167.5:8111/play/a01n/index.m3u8
-#EXTINF:-1  group-title="transvison" ,happy kids junior
-
+#EXTINF:-1  group-title="transvison" ,HAPPY KIDS JUNIOR
+http://103.167.167.5:8111/play/a03b/index.m3u8
+#EXTINF:-1  group-title="transvison" ,ABU DHABI SPORT 1 (ZONK)
+http://103.167.167.5:8111/play/a03l/index.m3u8
+#EXTINF:-1  group-title="transvison" ,ABU DHABI SPORT 2 (ZONK)
+http://103.167.167.5:8111/play/a03m/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP (ZONK)
+http://103.167.167.5:8111/play/a00n/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 2 (ZONK)
+http://103.167.167.5:8111/play/a01b/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 3 (ZONK)
+http://103.167.167.5:8111/play/a01i/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 4 (ZONK)
+http://103.167.167.5:8111/play/a01j/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 5 (ZONK)
+http://103.167.167.5:8111/play/a01k/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 6(ZONK)
+http://103.167.167.5:8111/play/a01m/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BACKUP 8 (ZONK)
+http://103.167.167.5:8111/play/a01o/index.m3u8
+#EXTINF:-1  group-title="transvison" ,BEIN 1 (ZONK)
+http://103.167.167.5:8111/play/a015/index.m3u8
+#EXTINF:-1  group-title="transvison" ,DW TV (ZONK)
+http://103.167.167.5:8111/play/a03n/index.m3u8
+#EXTINF:-1  group-title="transvison" ,FIGHT SPIRIT (ZONK)
+http://103.167.167.5:8111/play/a03h/index.m3u8
+#EXTINF:-1  group-title="transvison" ,FORMOSA (ZONK)
+http://103.167.167.5:8111/play/a034/index.m3u8
+#EXTINF:-1  group-title="transvison" ,GALAXY (ZONK)
+http://103.167.167.5:8111/play/a02h/index.m3u8
+#EXTINF:-1  group-title="transvison" ,HITS (ZONK)
+http://103.167.167.5:8111/play/a043/index.m3u8
+#EXTINF:-1  group-title="transvison" ,OTOMOTO (ZONK)
+http://103.167.167.5:8111/play/a047/index.m3u8
+#EXTINF:-1  group-title="transvison" ,SPOTV 2 (ZONK)
+http://103.167.167.5:8111/play/a028/index.m3u8
+#EXTINF:-1  group-title="transvison" ,KIDS CENTRAL (ZONK)
+http://103.167.167.5:8111/play/a03u/index.m3u8
+#EXTINF:-1  group-title="transvison" ,NIMBUS PLAYOUT (ZONK)
+http://103.167.167.5:8111/play/a03t/index.m3u8
+#EXTINF:-1  group-title="transvison" ,NASA (ZONK)
+http://103.167.167.5:8111/play/a037/index.m3u8
+#EXTINF:-1  group-title="transvison" ,RUSAK (ZONK)
+http://103.167.167.5:8111/play/a00l/index.m3u8
+#EXTINF:-1  group-title="transvison" ,SPOTV (ZONK)
+http://103.167.167.5:8111/play/a03s/index.m3u8
+#EXTINF:-1  group-title="transvison" ,THRILL (ZONK)
+http://103.167.167.5:8111/play/a03v/index.m3u8
 
 #EXTINF:-1 group-title="PARABOLA",AFN
 http://103.226.232.170:9002/play/a007/index.m3u8
@@ -228,6 +227,8 @@ http://103.226.232.170:9002/play/a00e/index.m3u8
 http://103.226.232.170:9002/play/a00a/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",INDOSIAR
 http://103.226.232.199:8008/play/Indosiar/index.m3u8
+#EXTINF:-1 group-title="PARABOLA",INDOSIAR
+http://103.226.232.199:8008/play/a01h/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",JOWO
 http://103.226.232.170:9002/play/a00f/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",LOVE NATURE
@@ -270,8 +271,6 @@ http://103.226.232.170:9002/play/a005/index.m3u8
 http://103.226.232.199:8008/play/a01n/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",WC2-JBR
 http://103.226.232.199:8008/play/a01x/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",indo
-http://103.226.232.199:8008/play/a01h/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",jember1tv
 http://103.226.232.199:8008/play/a016/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",jember2tv
