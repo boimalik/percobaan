@@ -189,94 +189,6 @@ http://103.167.167.5:8111/play/a03s/index.m3u8
 #EXTINF:-1  group-title="transvison" ,THRILL (ZONK)
 http://103.167.167.5:8111/play/a03v/index.m3u8
 
-#EXTINF:-1 group-title="PARABOLA",AFN
-http://103.226.232.170:9002/play/a007/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ALWAFA
-http://103.226.232.199:8008/play/a02p/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ANIMAL PLANET
-http://103.226.232.199:8008/play/a02q/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ANIMAL PLANET
-http://103.226.232.199:8008/play/a02r/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ANIMAX
-http://103.226.232.170:9002/play/a00k/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",AXN
-http://103.226.232.170:9002/play/a00i/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",BBSTV
-http://103.226.232.199:8008/play/a01e/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",BEIN 1
-http://103.226.232.170:9002/play/a001/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",BEIN 3
-http://103.226.232.170:9002/play/a002/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",BLOOMBERG
-http://103.226.232.170:9002/play/a00v/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",CINEMAX
-http://103.226.232.170:9002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",CNBC ASIA
-http://103.226.232.170:9002/play/a00w/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",CNN INDONESIA
-http://103.226.232.170:9002/play/a00g/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",DUNIA ANAK
-http://103.226.232.170:9002/play/a00m/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",FLIX
-http://103.226.232.170:9002/play/a00j/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",GALAXY
-http://103.226.232.170:9002/play/a00t/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",HBO
-http://103.226.232.170:9002/play/a00e/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",HISTORY
-http://103.226.232.170:9002/play/a00a/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",INDOSIAR
-http://103.226.232.199:8008/play/Indosiar/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",INDOSIAR
-http://103.226.232.199:8008/play/a01h/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",JOWO
-http://103.226.232.170:9002/play/a00f/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",LOVE NATURE
-http://103.226.232.199:8008/play/a02s/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",MAKKAH
-http://103.226.232.199:8008/play/a02n/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",MENTARI
-http://103.226.232.199:8008/play/a019/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",MNC
-http://103.226.232.199:8008/play/a01a/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",MOJI
-http://103.226.232.199:8008/play/a01d/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",MY CINEMA ASIA
-http://103.226.232.170:9002/play/a00u/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",NAT GEO
-http://103.226.232.170:9002/play/a008/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",NAT GEO WILD
-http://103.226.232.170:9002/play/a00b/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ONE
-http://103.226.232.170:9002/play/a006/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",RCTI
-http://103.226.232.199:8008/play/a018/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",RTV
-http://103.226.232.199:8008/play/a02f/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",SCTV
-http://103.226.232.199:8008/play/a01v/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",SCTV SD
-http://103.226.232.170:9002/play/a00y/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",TECH STORM
-http://103.226.232.170:9002/play/a00d/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",TRANS 7
-http://103.226.232.199:8008/play/a01l/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",TRANSTV
-http://103.226.232.199:8008/play/a01b/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",U CHANNEL
-http://103.226.232.170:9002/play/a010/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",ZEE BIOSKOP
-http://103.226.232.170:9002/play/a005/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",WC1-JBR
-http://103.226.232.199:8008/play/a01n/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",WC2-JBR
-http://103.226.232.199:8008/play/a01x/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",jember1tv
-http://103.226.232.199:8008/play/a016/index.m3u8
-#EXTINF:-1 group-title="PARABOLA",jember2tv
-http://103.226.232.199:8008/play/a01g/index.m3u8
-
-
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",ANTV HD
 http://203.29.26.22:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",BBS TV
@@ -331,231 +243,526 @@ http://103.20.184.167:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="true visions",Warner HD
 http://103.20.184.167:8000/play/a016/index.m3u8
 
-#EXTINF:-1 group-title="true visions 1",ABC NEWS
-http://103.226.232.170:9004/play/a008
-#EXTINF:-1 group-title="true visions 1",AL JAZEERA
-http://103.226.232.170:9004/play/a007
-#EXTINF:-1 group-title="true visions 1",ANIPLUS
-http://103.226.232.170:9004/play/a00b
-#EXTINF:-1 group-title="true visions 1",BEIN 3 SD
-http://103.226.232.170:9004/play/a00d
-#EXTINF:-1 group-title="true visions 1",BLOOMBERG
-http://103.226.232.170:9004/play/a006
-#EXTINF:-1 group-title="true visions 1",CITRA DRAMA
-http://103.226.232.170:9004/play/a003
-#EXTINF:-1 group-title="true visions 1",CNN INTERNATIONAL
-http://103.226.232.170:9004/play/a005
-#EXTINF:-1 group-title="true visions 1",DISCOVERY CH
-http://103.226.232.170:9004/play/a00h
-#EXTINF:-1 group-title="true visions 1",DW
-http://103.226.232.170:9004/play/a00l
-#EXTINF:-1 group-title="true visions 1",FRANCE 24
-http://103.226.232.170:9004/play/a00k
-#EXTINF:-1 group-title="true visions 1",HGTV
-http://103.226.232.170:9004/play/a00c
-#EXTINF:-1 group-title="true visions 1",JEMBER1
-http://103.226.232.170:9004/play/a00q
-#EXTINF:-1 group-title="true visions 1",JEMBER2
-http://103.226.232.170:9004/play/a00r
-#EXTINF:-1 group-title="true visions 1",KIDZ
-http://103.226.232.170:9004/play/a00a
-#EXTINF:-1 group-title="true visions 1",LIFETIME
-http://103.226.232.170:9004/play/a00e
-#EXTINF:-1 group-title="true visions 1",MTV
-http://103.226.232.170:9004/play/a00f
-#EXTINF:-1 group-title="true visions 1",NHK WORLD PREMIUM
-http://103.226.232.170:9004/play/a00m
-#EXTINF:-1 group-title="true visions 1",NICK JR
-http://103.226.232.170:9004/play/a002
-#EXTINF:-1 group-title="true visions 1",NICKELODEON
-http://103.226.232.170:9004/play/a001
-#EXTINF:-1 group-title="true visions 1",TLC
-http://103.226.232.170:9004/play/a00g
-#EXTINF:-1 group-title="true visions 1",TRANS7
-http://103.226.232.170:9004/play/a00s
-#EXTINF:-1 group-title="true visions 1",TRT WORLD
-http://103.226.232.170:9004/play/a009
-#EXTINF:-1 group-title="true visions 1",TV5 MONDE
-http://103.226.232.170:9004/play/a004
-
-#EXTINF:-1 group-title="true visions 2",AJWA
-http://103.226.232.170:9008/play/a001
-#EXTINF:-1 group-title="true visions 2",ASTRO CERIA
-http://103.226.232.170:9008/play/a037
-#EXTINF:-1 group-title="true visions 2",ASTRO SS4
-http://103.226.232.170:9008/play/a011
-#EXTINF:-1 group-title="true visions 2",ASTRO SSP1
-http://103.226.232.170:9008/play/a02s
-#EXTINF:-1 group-title="true visions 2",ASTRO SSP2
-http://103.226.232.170:9008/play/a02l
-#EXTINF:-1 group-title="true visions 2",ASTRO SSP3
-http://103.226.232.170:9008/play/a02m
-#EXTINF:-1 group-title="true visions 2",ASTRO SSP4
-http://103.226.232.170:9008/play/a02n
-#EXTINF:-1 group-title="true visions 2",ASTRO SUPERSPORT1
-http://103.226.232.170:9008/play/a033
-#EXTINF:-1 group-title="true visions 2",ASTRO SUPERSPORT2
-http://103.226.232.170:9008/play/a034
-#EXTINF:-1 group-title="true visions 2",ASTRO SUPERSPORT3
-http://103.226.232.170:9008/play/a035
-#EXTINF:-1 group-title="true visions 2",ASTRO SUPERSPORT4
-http://103.226.232.170:9008/play/a036
-#EXTINF:-1 group-title="true visions 2",BABY ALIVE
-http://103.226.232.170:9008/play/a01s
-#EXTINF:-1 group-title="true visions 2",BABY TRT
-http://103.226.232.170:9008/play/a02e
-#EXTINF:-1 group-title="true visions 2",BABY TV
-http://103.226.232.170:9008/play/a02d
-#EXTINF:-1 group-title="true visions 2",BABY TV2
-http://103.226.232.170:9008/play/a02r
-#EXTINF:-1 group-title="true visions 2",BEIN SPORT3
-http://103.226.232.170:9008/play/a02w
-#EXTINF:-1 group-title="true visions 2",BEIN SPORT4
-http://103.226.232.170:9008/play/a02x
-#EXTINF:-1 group-title="true visions 2",BEIN SPORT5
-http://103.226.232.170:9008/play/a02y
-#EXTINF:-1 group-title="true visions 2",BEIN SPORT6
-http://103.226.232.170:9008/play/a02z
-#EXTINF:-1 group-title="true visions 2",BEIN SPORT7
-http://103.226.232.170:9008/play/a030
-#EXTINF:-1 group-title="true visions 2",CBEEBIES
-http://103.226.232.170:9008/play/a039
-#EXTINF:-1 group-title="true visions 2",CLUBING TV
-http://103.226.232.170:9008/play/a00m
-#EXTINF:-1 group-title="true visions 2",CNN INDONESIA
-http://103.226.232.170:9008/play/a013
-#EXTINF:-1 group-title="true visions 2",DAZN2 SPORT
-http://103.226.232.170:9008/play/a02f
-#EXTINF:-1 group-title="true visions 2",DELUXE LOUNGE
-http://103.226.232.170:9008/play/a00f
-#EXTINF:-1 group-title="true visions 2",DELUXE MUSIC
-http://103.226.232.170:9008/play/a00d
-#EXTINF:-1 group-title="true visions 2",DMTV MALANG
-http://103.226.232.170:9008/play/a02k
-#EXTINF:-1 group-title="true visions 2",ESPN
-http://103.226.232.170:9008/play/a022
-#EXTINF:-1 group-title="true visions 2",ESPN2
-http://103.226.232.170:9008/play/a023
-#EXTINF:-1 group-title="true visions 2",EURO SPORT1
-http://103.226.232.170:9008/play/a024
-#EXTINF:-1 group-title="true visions 2",EURO SPORT2
-http://103.226.232.170:9008/play/a00z
-#EXTINF:-1 group-title="true visions 2",EUROSPORT1
-http://103.226.232.170:9008/play/a02h
-#EXTINF:-1 group-title="true visions 2",FASHION TV
-http://103.226.232.170:9008/play/a014
-#EXTINF:-1 group-title="true visions 2",FIGHT NETWORK
-http://103.226.232.170:9008/play/a02g
-#EXTINF:-1 group-title="true visions 2",FIGHT SPORT2
-http://103.226.232.170:9008/play/a02q
-#EXTINF:-1 group-title="true visions 2",FISH TV
-http://103.226.232.170:9008/play/a01r
-#EXTINF:-1 group-title="true visions 2",FOX SPORT
-http://103.226.232.170:9008/play/a01w
-#EXTINF:-1 group-title="true visions 2",FUEL TV
-http://103.226.232.170:9008/play/a00n
-#EXTINF:-1 group-title="true visions 2",GOLD TV
-http://103.226.232.170:9008/play/a00i
-#EXTINF:-1 group-title="true visions 2",HAPPY KIDS
-http://103.226.232.170:9008/play/a02i
-#EXTINF:-1 group-title="true visions 2",IMPACT WRESTLING
-http://103.226.232.170:9008/play/a01k
-#EXTINF:-1 group-title="true visions 2",INDOSIAR
-http://103.226.232.170:9008/play/a032
-#EXTINF:-1 group-title="true visions 2",KIDS TV
-http://103.226.232.170:9008/play/a02j
-#EXTINF:-1 group-title="true visions 2",LEGO
-http://103.226.232.170:9008/play/a02v
-#EXTINF:-1 group-title="true visions 2",MANCING MANIA
-http://103.226.232.170:9008/play/a00g
-#EXTINF:-1 group-title="true visions 2",MMA JUNKIE
-http://103.226.232.170:9008/play/a01l
-#EXTINF:-1 group-title="true visions 2",MMA TV
-http://103.226.232.170:9008/play/a02o
-#EXTINF:-1 group-title="true visions 2",MUSIC TOP
-http://103.226.232.170:9008/play/a01c
-#EXTINF:-1 group-title="true visions 2",MY GARAGE
-http://103.226.232.170:9008/play/a025
-#EXTINF:-1 group-title="true visions 2",NOJUM
-http://103.226.232.170:9008/play/a00y
-#EXTINF:-1 group-title="true visions 2",NOVA SPORT2
-http://103.226.232.170:9008/play/a010
-#EXTINF:-1 group-title="true visions 2",NOVA SPORT6
-http://103.226.232.170:9008/play/a012
-#EXTINF:-1 group-title="true visions 2",NOW 80
-http://103.226.232.170:9008/play/a00v
-#EXTINF:-1 group-title="true visions 2",PETS LOVERS
-http://103.226.232.170:9008/play/a01v
-#EXTINF:-1 group-title="true visions 2",PLANETA JUNIOR
-http://103.226.232.170:9008/play/a00s
-#EXTINF:-1 group-title="true visions 2",PLUTO MANCING MANIA2
-http://103.226.232.170:9008/play/a017
-#EXTINF:-1 group-title="true visions 2",PLUTO MMA
-http://103.226.232.170:9008/play/a016
-#EXTINF:-1 group-title="true visions 2",PLUTO UFC
-http://103.226.232.170:9008/play/a019
-#EXTINF:-1 group-title="true visions 2",PLUTO WRESTLING
-http://103.226.232.170:9008/play/a01a
-#EXTINF:-1 group-title="true visions 2",Q MUSIC
-http://103.226.232.170:9008/play/a01b
-#EXTINF:-1 group-title="true visions 2",RAKUTEN TV
-http://103.226.232.170:9008/play/a015
-#EXTINF:-1 group-title="true visions 2",RETRO TV
-http://103.226.232.170:9008/play/a00p
-#EXTINF:-1 group-title="true visions 2",REUTERS TV
-http://103.226.232.170:9008/play/a00u
-#EXTINF:-1 group-title="true visions 2",ROTANA
-http://103.226.232.170:9008/play/a00b
-#EXTINF:-1 group-title="true visions 2",ROTANA SPORTS TV
-http://103.226.232.170:9008/play/a01o
-#EXTINF:-1 group-title="true visions 2",ROTANA1
-http://103.226.232.170:9008/play/a01d
-#EXTINF:-1 group-title="true visions 2",SCHLAGER DELUXE
-http://103.226.232.170:9008/play/a00h
-#EXTINF:-1 group-title="true visions 2",SONY SIX
-http://103.226.232.170:9008/play/a01y
-#EXTINF:-1 group-title="true visions 2",SONY TEN1
-http://103.226.232.170:9008/play/a01e
-#EXTINF:-1 group-title="true visions 2",SONY TEN2
-http://103.226.232.170:9008/play/a01z
-#EXTINF:-1 group-title="true visions 2",SONY TEN3
-http://103.226.232.170:9008/play/a020
-#EXTINF:-1 group-title="true visions 2",SPORT 18
-http://103.226.232.170:9008/play/a01x
-#EXTINF:-1 group-title="true visions 2",SPORT OUTDOOR
-http://103.226.232.170:9008/play/a00k
-#EXTINF:-1 group-title="true visions 2",STAR HD
-http://103.226.232.170:9008/play/a00c
-#EXTINF:-1 group-title="true visions 2",START MOVIE
-http://103.226.232.170:9008/play/a021
-#EXTINF:-1 group-title="true visions 2",STRONGMAN LEAGUE
-http://103.226.232.170:9008/play/a01f
-#EXTINF:-1 group-title="true visions 2",SUPERTOON
-http://103.226.232.170:9008/play/a00q
-#EXTINF:-1 group-title="true visions 2",TELETUBIES
-http://103.226.232.170:9008/play/a00r
-#EXTINF:-1 group-title="true visions 2",TES
-http://103.226.232.170:9008/play/a031
-#EXTINF:-1 group-title="true visions 2",TRACE SPORT STAR
-http://103.226.232.170:9008/play/a01g
-#EXTINF:-1 group-title="true visions 2",TRACE URBAN
-http://103.226.232.170:9008/play/a01h
-#EXTINF:-1 group-title="true visions 2",TRT MUZIK
-http://103.226.232.170:9008/play/a005
-#EXTINF:-1 group-title="true visions 2",TV ONE
-http://103.226.232.170:9008/play/a002
-#EXTINF:-1 group-title="true visions 2",UFC TV
-http://103.226.232.170:9008/play/a02p
-#EXTINF:-1 group-title="true visions 2",VEVO 2K
-http://103.226.232.170:9008/play/a01u
-#EXTINF:-1 group-title="true visions 2",VEVO HIP HOP
-http://103.226.232.170:9008/play/a01i
-#EXTINF:-1 group-title="true visions 2",VEVO POP
-http://103.226.232.170:9008/play/a00t
-#EXTINF:-1 group-title="true visions 2",VEVO R&B
-http://103.226.232.170:9008/play/a01t
-#EXTINF:-1 group-title="true visions 2",WWE
-http://103.226.232.170:9008/play/a038
+#EXTINF:-1 group-title="kuchini",Animal Planet
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
+#EXTINF:-1 group-title="kuchini",ANTV
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="kuchini",Aniplus
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157611
+#EXTINF:-1 group-title="kuchini",Adi Tv
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="kuchini",Aljazeera English
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24077
+#EXTINF:-1 group-title="kuchini",Arirang
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/121941
+#EXTINF:-1 group-title="kuchini",ABC Australia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157526
+#EXTINF:-1 group-title="kuchini",Astro Arena
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485
+#EXTINF:-1 group-title="kuchini",Astro Cricket
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
+#EXTINF:-1 group-title="kuchini",Astro Oasis
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157489
+#EXTINF:-1 group-title="kuchini",Astro Prima
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157467
+#EXTINF:-1 group-title="kuchini",Astro Shuang Xing
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/247428
+#EXTINF:-1 group-title="kuchini",Astro SuperSport 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
+#EXTINF:-1 group-title="kuchini",Astro SuperSport 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558
+#EXTINF:-1 group-title="kuchini",Astro Xiao Tai Yang
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201164
+#EXTINF:-1 group-title="kuchini",AXN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157542
+#http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165079
+#EXTINF:-1 group-title="kuchini",BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",BT Sport 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270
+#EXTINF:-1 group-title="kuchini",Baby Tv
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157605
+EXTINF:-1 group-title="kuchini",Baby First
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296498
+#EXTINF:-1 group-title="kuchini",Bali TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197962
+#EXTINF:-1 group-title="kuchini",BTV
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162513
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="kuchini",Berita Satu English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="kuchini",Berita Satu World
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162136
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="kuchini",Besmart
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165087
+#EXTINF:-1 group-title="kuchini",Bloomberg News
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157599
+#EXTINF:-1 group-title="kuchini",Bernama TV
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264517
+#EXTINF:-1 group-title="kuchini",Boomerang
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171955
+#EXTINF:-1 group-title="kuchini",BBC Earth
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171979
+#EXTINF:-1 group-title="kuchini",beIN Sports
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157561
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/35347
+#EXTINF:-1 group-title="kuchini",beIN Sports 1
+#http://ipgurl.xyz:80/live/GRLDGVRXPM/ZMV4VGAAKU/551.ts
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/1675
+#EXTINF:-1 group-title="kuchini",beIN Sports 2
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/1674
+#EXTINF:-1 group-title="kuchini",beIN Sports 3
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/35340
+http://ipgurl.xyz:80/live/GRLDGVRXPM/ZMV4VGAAKU/549.ts
+#EXTINF:-1 group="Sports",beIN Sports 4
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/1565
+#EXTINF:-1 group="Sports",beIN Sports 5
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/1564
+#EXTINF:-1 group="Sports",beIN Sports 6
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/1563
+#EXTINF:-1 group="Sports",beIN Sports 7
+http://cobraa.in:8000/160702462034/tNaJOjtjHz/487
+#EXTINF:-1 group-title="kuchini",beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1 group-title="kuchini",BT Sport 1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/270
+#EXTINF:-1 group-title="kuchini",BT Sport 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/273
+#EXTINF:-1 group-title="kuchini",BT Sport 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/271
+#EXTINF:-1 group-title="kuchini",BT Sport ESPN
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1124
+#EXTINF:-1 group-title="kuchini",Cartoon Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174684
+#EXTINF:-1 group-title="kuchini",Celestial Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174687
+#EXTINF:-1 group-title="kuchini", Chutti TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157495
+#EXTINF:-1 group-title="kuchini",Cinema World
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171956
+#EXTINF:-1 group-title="kuchini",CNBC Asia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157529
+#EXTINF:-1 group-title="kuchini",CNBC Indonesia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165062
+#EXTINF:-1 group-title="kuchini",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="kuchini",CNN News
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162137
+#EXTINF:-1 group-title="kuchini",Cartoonito
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1546
+#EXTINF:-1 group-title="kuchini",CBeebies
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/4753
+#EXTINF:-1 group-title="kuchini",CBBC
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/695
+#EXTINF:-1 group-title="kuchini",Crime+ Investigation
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165052
+#EXTINF:-1 group-title="kuchini",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="kuchini",Cinemax
+http://103.20.184.167:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="kuchini",CineBox Animation
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297178
+#EXTINF:-1 group-title="kuchini",CineBox Blockbuster
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297179
+#EXTINF:-1 group-title="kuchini",CineBox Classic
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297180
+#EXTINF:-1 group-title="kuchini",CineBox Comedy
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297181
+#EXTINF:-1 group-title="kuchini",CineBox Cult
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297182
+#EXTINF:-1 group-title="kuchini",CineBox Family
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297183
+#EXTINF:-1 group-title="kuchini",CineBox Greatest
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297184
+#EXTINF:-1 group-title="kuchini",CineBox 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297185
+#EXTINF:-1 group-title="kuchini",CineBox 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297186
+#EXTINF:-1 group-title="kuchini",DMAX
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158351
+#EXTINF:-1 group-title="kuchini",Dubai Tv
+http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Discovery Shed
+http://87.212.248.44:60130/play/a04w
+#EXTINF:-1 group-title="kuchini",Discovery World
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
+#EXTINF:-1 group-title="kuchini",Discovery History
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/694
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/694
+#EXTINF:-1 group-title="kuchini",Discovery Science
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/713
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/713
+#EXTINF:-1 group-title="kuchini",Discovery Turbo
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1114
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1114
+#EXTINF:-1 group-title="kuchini",Digione Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 group-title="kuchini",Disney XD
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157544
+#EXTINF:-1 group-title="kuchini",Disney Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165075
+#EXTINF:-1 group-title="kuchini",Disney Jr
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162511
+#EXTINF:-1 group-title="kuchini",Duck TV
+#https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Da-Ai Tv
+http://210.210.155.35:80/session/0cf88fd2-efe7-11ec-ad34-b82a72d63267/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+#EXTINF:-1 group-title="kuchini",Egg Network
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157484
+#EXTINF:-1 group-title="kuchini",Eurosports 1
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158353
+#EXTINF:-1 group-title="kuchini",Eurosports 2
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1555
+#EXTINF:-1 group-title="kuchini",El John TV
+https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
+#EXTINF:-1 group-title="kuchini",ESPN 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/294449
+#EXTINF:-1 group-title="kuchini",ESPN 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/35326
+#EXTINF:-1 group-title="kuchini",Elshinta Tv
+#http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 group-title="kuchini",Edge Sport
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/54012
+#EXTINF:-1 group-title="kuchini",Eurosports 1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/692
+#EXTINF:-1 group-title="kuchini",Eurosports 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1555
+#EXTINF:-1 group-title="kuchini",Food XP
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11450
+#EXTINF:-1 group-title="kuchini",France 24
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11560
+#EXTINF:-1 group-title="kuchini",FMN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165057
+#EXTINF:-1 group-title="kuchini",Fox Life
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165083
+#EXTINF:-1 group-title="kuchini",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Food Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196454
+#EXTINF:-1 group-title="kuchini",Fox Sports 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157488
+#EXTINF:-1 group-title="kuchini",Fox Sports 501
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279034
+#EXTINF:-1 group-title="kuchini",Fox Sports 502
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81784
+#EXTINF:-1 group-title="kuchini",Fox Sports 503
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280192
+#EXTINF:-1 group-title="kuchini",Fox Sports 504
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280193
+#EXTINF:-1 group-title="kuchini",Fox Sports 505
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/144772
+#EXTINF:-1 group-title="kuchini",Fox Sports 506
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279033
+#EXTINF:-1 group-title="kuchini",Fox Sports 507
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280194
+#EXTINF:-1 group-title="kuchini",FreeSports
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/37876
+#EXTINF:-1 group-title="kuchini",GTV
+#https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="kuchini",Garuda TV
+#https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:-1 group-title="kuchini",Great Movies
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173235
+#EXTINF:-1 group-title="kuchini",Great Movies Romance
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286775
+#EXTINF:-1 group-title="kuchini",Great Movies Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290529
+#EXTINF:-1 group-title="kuchini",HGTV Asia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157553
+#EXTINF:-1 group-title="kuchini",Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Happy Kids
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157545
+#EXTINF:-1 group-title="kuchini",HITS Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157477
+#EXTINF:-1 group-title="kuchini",HBO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
+#EXTINF:-1 group-title="kuchini",HBO Family
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/760
+#EXTINF:-1 group-title="kuchini",HBO Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
+#EXTINF:-1 group-title="kuchini",HBO Signature
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/6305
+#EXTINF:-1 group-title="kuchini",HBO Comedy
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/151864
+#EXTINF:-1 group-title="kuchini",History
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162519
+#EXTINF:-1 group-title="kuchini",HobbyMaker
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296396
+#EXTINF:-1 group-title="kuchini",Horror Channel
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/736
+#EXTINF:-1 group-title="kuchini",I AM Channel
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287423
+#EXTINF:-1 group-title="kuchini",IDX
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157590
+#EXTINF:-1 group-title="kuchini",Investigasi Enterttainment
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157582
+#EXTINF:-1 group-title="kuchini",iNews
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
+#EXTINF:-1 group-title="kuchini",Izzah
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/275984
+#EXTINF:-1 group-title="kuchini",Indosiar
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#EXTINF:-1 group-title="kuchini",Inwild
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279774
+#EXTINF:-1 group-title="kuchini",Insan Tv
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 group-title="kuchini",Indosiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
+#EXTINF:-1 group-title="kuchini",Jak Tv
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157601
+#EXTINF:-1 group-title="kuchini",Jaya Tv
+https://h1.intechmedia.net/intech/ch29.m3u8
+#EXTINF:-1 group-title="kuchini",Jakarta Globe News
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/166399
+#EXTINF:-1 group-title="kuchini",JPM
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 group-title="kuchini",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="kuchini",KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 group-title="kuchini",Kids Tv
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162505
+#EXTINF:-1 group-title="kuchini",Kompas Tv
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165060
+#EXTINF:-1 group-title="kuchini",Kawanua Tv
+#http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="kuchini",KBS Korea
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="kuchini",Kidoodle.TV
+https://bit.ly/3c7D00I
+#EXTINF:-1 group-title="kuchini",Kerrang
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286913
+#EXTINF:-1 group-title="kuchini",Local Now Family Flix
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296889
+#EXTINF:-1 group-title="kuchini",Learning & Knowledge
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 group-title="kuchini",Lifestyle & Fashion
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157592
+#EXTINF:-1 group-title="kuchini",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Lifetime
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/297104
+#EXTINF:-1 group-title="kuchini",Lolly Kids
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265254
+#EXTINF:-1 group-title="kuchini",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",M Kids
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 group-title="kuchini",Metro Tv
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165059
+#EXTINF:-1 group-title="kuchini",Magna Channel
+#https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="kuchini",MNC News
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
+#EXTINF:-1 group-title="kuchini",MNC Sports
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/35338
+#EXTINF:-1 group-title="kuchini",Madu Tv
+https://re1.siar.us/madutv/hd720/chunks.m3u8
+#EXTINF:-1 group-title="kuchini",MNCTV
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165054
+#EXTINF:-1 group-title="kuchini",MTA 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266815
+#EXTINF:-1 group-title="kuchini",Music TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165108
+#EXTINF:-1 group-title="kuchini",Moji
+https://geocities.ws/ariev7xx/moji.m3u8
+#EXTINF:-1 group-title="kuchini",Motor Racing
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295426
+#EXTINF:-1 group-title="kuchini",MUTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1102
+#EXTINF:-1 group-title="kuchini",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="kuchini",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="kuchini",MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="kuchini",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="kuchini",MTV Yo
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="kuchini",Nat Geo Wild
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724
+#EXTINF:-1 group-title="kuchini",Nat Geo
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165094
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",Nickelodeon
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157541
+#https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/740
+#EXTINF:-1 group-title="kuchini",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="kuchini",NTV 7
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174695
+#EXTINF:-1 group-title="kuchini",NET
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/80292
+#EXTINF:-1 group-title="kuchini",Nick Jr
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165107
+#https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1098
+#EXTINF:-1 group-title="kuchini",NTV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 group-title="kuchini",NHK World
+#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="kuchini",Now 70s
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/65074
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/65074
+#EXTINF:-1 group-title="kuchini",Now 80s
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4738
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/4738
+#EXTINF:-1 group-title="kuchini",One Tv
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296214
+#EXTINF:-1 group-title="kuchini",Paramount Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4637
+#EXTINF:-1 group-title="kuchini",Pinkfong Baby Shark HD
+https://bit.ly/3uRAsun
+#EXTINF:-1 group-title="kuchini",Pop
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1599
+#EXTINF:-1 group-title="kuchini",Pop Musik
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1 group-title="kuchini",PBS KET Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 group-title="kuchini",Premier Sports 1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1097
+#EXTINF:-1 group-title="kuchini",Premier Sports 2
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4723
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/4723
+#EXTINF:-1 group-title="kuchini",Riau TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",RTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196457
+#EXTINF:-1 group-title="kuchini",RTM TV 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158357
+#EXTINF:-1 group-title="kuchini",RCTI
+#http://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:-1 group-title="kuchini",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="kuchini",Rock Extreme
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 group-title="kuchini",Sony One
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
+#EXTINF:-1 group-title="kuchini",SBS Food
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/144778
+#EXTINF:-1 group-title="kuchini",Super Sports Football
+http://xtv.ooo:8080/6833/6833/238480
+#EXTINF:-1 group-title="kuchini",Sky Racing 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201085
+#EXTINF:-1 group-title="kuchini",Sky Racing 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201086
+#EXTINF:-1 group-title="kuchini",SCTV
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 group-title="kuchini",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="kuchini",Samsung Wild life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="kuchini",SMTV
+http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="kuchini",Sony Ten 1 HD
+http://xtv.ooo:8080/6833/6833/167570
+#EXTINF:-1 group-title="kuchini",Sony Ten 2 HD
+http://xtv.ooo:8080/6833/6833/167571
+#EXTINF:-1 group-title="kuchini",Sony Ten 3 HD
+http://xtv.ooo:8080/6833/6833/167572
+#EXTINF:-1 group-title="kuchini",Sony Six HD
+http://xtv.ooo:8080/6833/6833/167580
+#EXTINF:-1 group-title="kuchini",Sky Cinema Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1092
+#EXTINF:-1 group-title="kuchini",Sky Cinema Animation
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1090
+#EXTINF:-1 group-title="kuchini",Sky Cinema Family
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727
+#EXTINF:-1 group-title="kuchini",Sky Cinema Greats
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1087
+#EXTINF:-1 group-title="kuchini",Sky Cinema Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1086
+#EXTINF:-1 group-title="kuchini",Sky Cinema Premiere
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1085
+#EXTINF:-1 group-title="kuchini",Sky Cinema sci-fi Horror
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725
+#EXTINF:-1 group-title="kuchini",Sky Cinema Select
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/726
+#EXTINF:-1 group-title="kuchini",Sky Cinema Thriller
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1082
+#EXTINF:-1 group-title="kuchini",Sky Comedy
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1091
+#EXTINF:-1 group-title="kuchini",Sky Sports Cricket
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/269
+#EXTINF:-1 group-title="kuchini",Sky Sports Football
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
+#EXTINF:-1 group-title="kuchini",Tegar Tv
+http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1596598636.m3u8
+#EXTINF:-1 group-title="kuchini",TATV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1 group-title="kuchini",Tiny Pop
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264542
+#EXTINF:-1 group-title="kuchini",Tennis HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="kuchini",Thrill
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157580
+#EXTINF:-1 group-title="kuchini",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1392188273_b744100_sleng.m3u8
+#EXTINF:-1 group-title="kuchini",Trans TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162503
+#EXTINF:-1 group-title="kuchini",TV 9 Nusantara
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162509
+#EXTINF:-1 group-title="kuchini",Tv One
+https://devds.site/api/youlive.m3u8?v=yNKvkPJl-tg
+#EXTINF:-1 group-title="kuchini",TVN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157476
+#EXTINF:-1 group-title="kuchini",TVN Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157596
+#EXTINF:-1 group-title="kuchini",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 group-title="kuchini",Travel Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295133
+#EXTINF:-1 group-title="kuchini",Travel XP
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157273
+#EXTINF:-1 group-title="kuchini",TVRI
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162504
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="kuchini",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="kuchini",TVRI Sport
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/166686
+#EXTINF:-1 group-title="kuchini",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="kuchini",TV 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158360
+#EXTINF:-1 group-title="kuchini",TV 9
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171953
+#EXTINF:-1 group-title="kuchini",TV Alhijrah
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157491
+#EXTINF:-1 group-title="kuchini",TLC
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1067
+#EXTINF:-1 group-title="kuchini",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 group-title="kuchini",Universal TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278519
+#EXTINF:-1 group-title="kuchini",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 group-title="kuchini",Vevo "70s
+https://bit.ly/3Qmd94Z
+#EXTINF:-1 group-title="kuchini",Vevo "80s
+https://bit.ly/39whMZD
+#EXTINF:-1 group-title="kuchini",Vevo "90s
+https://bit.ly/39DzTg5
+#EXTINF:-1 group-title="kuchini",Warner TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157594
+#EXTINF:-1 group-title="kuchini",Wion
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296469
+#EXTINF:-1 group-title="kuchini",Yesterday
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1065
+#EXTINF:-1 group-title="kuchini",Zee Bioskop
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157584
+#EXTINF:-1 group-title="kuchini",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Lokal Nasional",SCTV 
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
