@@ -224,6 +224,25 @@ http://203.29.26.22:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",TVONE
 http://203.29.26.22:8000/play/a06y/index.m3u8
 
+#EXTINF:-1 group-title="true visions",Galaxy
+http://103.156.71.22:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="true visions",HBO
+http://103.156.71.22:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="true visions",AXN
+http://103.156.71.22:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="true visions",Nat Geo WILD
+http://103.156.71.22:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="true visions",Paramount
+http://103.156.71.22:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="true visions",Cinemax
+http://103.156.71.22:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="true visions",ANTV
+http://103.156.71.22:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="true visions",METRO TV
+http://103.156.71.22:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="true visions",SPOTV
+http://103.156.71.22:8000/play/a001/index.m3u8
+
 #EXTINF:-1 group-title="true visions",Bioskop Indonesia
 http://103.20.184.167:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="true visions",Cinemax Dolby HD
@@ -242,6 +261,7 @@ http://103.20.184.167:8000/play/a01u/index.m3u8
 http://103.20.184.167:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="true visions",Warner HD
 http://103.20.184.167:8000/play/a016/index.m3u8
+
 
 #EXTINF:-1 group-title="kuchini",Animal Planet
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
@@ -1248,3 +1268,206 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-1 group-title="Religi",MQTV 
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Spain",(O)AZ Cinema HD
+http://45.189.118.12:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)HBO HD
+http://45.189.118.12:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)HBO XTREME HD
+http://45.189.118.12:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)PlayBoy HD
+http://45.189.118.12:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)STAR CHANNEL HD
+http://45.189.118.12:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)STAR CHANNEL HD
+http://45.189.118.12:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)STAR CHANNEL HD
+http://45.189.118.12:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)STAR TVE HD
+http://45.189.118.12:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="TV Spain",(O)Travelxp HD
+http://45.189.118.12:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="TV Spain",A&E HD
+http://45.189.118.12:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="TV Spain",AMC HD
+http://45.189.118.12:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ATRES SERIES HD
+http://45.189.118.12:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="TV Spain",AXN HD
+http://45.189.118.12:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV Spain",America TV HD
+http://45.189.118.12:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Animal Planet HD
+http://45.189.118.12:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="TV Spain",CHV HD
+http://45.189.118.12:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV Spain",CNN Chile HD
+http://45.189.118.12:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Canal 1 HD
+http://45.189.118.12:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Canal 13 HD
+http://45.189.118.12:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Canal 24 Horas HD
+http://45.189.118.12:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Canal Institucional HD
+http://45.189.118.12:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Caracol HD
+http://45.189.118.12:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Cartoon Network HD
+http://45.189.118.12:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Cinecanal HD
+http://45.189.118.12:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Cinemax HD
+http://45.189.118.12:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Clover HD
+http://45.189.118.12:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Comedy Central HD
+http://45.189.118.12:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="TV Spain",DHE HD
+http://45.189.118.12:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Discovery H&H HD
+http://45.189.118.12:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Discovery HD
+http://45.189.118.12:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Discovery Theater HD
+http://45.189.118.12:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Discovery World HD
+http://45.189.118.12:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Disney HD
+http://45.189.118.12:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="TV Spain",E! HD
+http://45.189.118.12:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN 2 Chile HD
+http://45.189.118.12:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN 2 Ecuador HD
+http://45.189.118.12:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN 2 PERU HD
+http://45.189.118.12:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN 3 HD
+http://45.189.118.12:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN 4 HD
+http://45.189.118.12:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN EXTRA HD
+http://45.189.118.12:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN HD Chile
+http://45.189.118.12:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN HD Latin
+http://45.189.118.12:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ESPN PERU HD
+http://45.189.118.12:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="TV Spain",El Canal del Futbol HD
+http://45.189.118.12:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="TV Spain",El Gourmet HD
+http://45.189.118.12:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="TV Spain",FOX Sports 2 HD
+http://45.189.118.12:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="TV Spain",FX HD
+http://45.189.118.12:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Food Network HD
+http://45.189.118.12:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Fox Sports 1 HD
+http://45.189.118.12:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Fox Sports 3 HD
+http://45.189.118.12:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="TV Spain",France 24 HD
+http://45.189.118.12:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="TV Spain",GOLPERU HD
+http://45.189.118.12:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="TV Spain",GolTV HD
+http://45.189.118.12:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Golden HD
+http://45.189.118.12:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HBO 2 HD
+http://45.189.118.12:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HBO Family HD
+http://45.189.118.12:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HBO HD
+http://45.189.118.12:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HBO POP HD
+http://45.189.118.12:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HBO XTREME HD
+http://45.189.118.12:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="TV Spain",HOLA TV HD
+http://45.189.118.12:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="TV Spain",History 2 HD
+http://45.189.118.12:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="TV Spain",History Channel HD
+http://45.189.118.12:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="TV Spain",ID HD
+http://45.189.118.12:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Kanal D Drama HD
+http://45.189.118.12:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="TV Spain",La Red HD
+http://45.189.118.12:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Las Estrellas HD
+http://45.189.118.12:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Latina HD
+http://45.189.118.12:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Lolly Kids HD
+http://45.189.118.12:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Love Nature HD
+http://45.189.118.12:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="TV Spain",MEGA HD
+http://45.189.118.12:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="TV Spain",MTV HD
+http://45.189.118.12:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="TV Spain",MTV LIVE HD
+http://45.189.118.12:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Movistar Deportes HD
+http://45.189.118.12:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Nat Geo HD
+http://45.189.118.12:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Nick HD
+http://45.189.118.12:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Nick Music HD
+http://45.189.118.12:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Paramount HD
+http://45.189.118.12:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Pasiones HD
+http://45.189.118.12:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Playboy HD
+http://45.189.118.12:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="TV Spain",RCN HD
+http://45.189.118.12:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="TV Spain",STAR CHANNEL HD
+http://45.189.118.12:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Senal Colombia HD
+http://45.189.118.12:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Sony HD
+http://45.189.118.12:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Space HD
+http://45.189.118.12:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Stingray Concerts HD
+http://45.189.118.12:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Studio Universal HD
+http://45.189.118.12:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Sun Channel HD
+http://45.189.118.12:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TBS Very Funny HD
+http://45.189.118.12:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TNT HD
+http://45.189.118.12:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TNT SPORTS HD
+http://45.189.118.12:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TNT Series HD
+http://45.189.118.12:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TRUTV HD
+http://45.189.118.12:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TV+ HD
+http://45.189.118.12:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TVN HD
+http://45.189.118.12:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Teen Nick HD
+http://45.189.118.12:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Telehit HD
+http://45.189.118.12:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="TV Spain",TyC Sports HD
+http://45.189.118.12:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="TV Spain",UNIVERSAL CHANNEL HD
+http://45.189.118.12:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Warner Channel HD
+http://45.189.118.12:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Win Sports HD
+http://45.189.118.12:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="TV Spain",Win Sports+ HD
+http://45.189.118.12:8000/play/a06o/index.m3u8
