@@ -1,5 +1,172 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="channel ok",ANTV
+http://103.156.71.22:8000/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="channel ok",INDOSIAR
+http://103.156.71.22:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="channel ok",SCTV
+http://103.156.71.22:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="channel ok",MOJI
+http://103.156.71.22:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="channel ok",RCTI
+http://103.156.71.22:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="channel ok",MNC TV
+http://103.156.71.22:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="channel ok",GLOBAL
+http://103.156.71.22:8000/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="channel ok",INEWS
+http://103.156.71.22:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="channel ok",TRANS 7
+http://103.156.71.22:8000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="channel ok",TRANNS TV
+http://103.156.71.22:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="channel ok",TV ONE
+http://103.156.71.22:8000/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="channel ok",KOMPAS TV
+http://103.156.71.22:8000/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="channel ok",CNN
+http://103.156.71.22:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="channel ok",CNBC
+http://103.156.71.22:8000/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="channel ok",JTV
+http://103.156.71.22:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="channel ok",TVRI NASIONAL
+http://103.156.71.22:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="channel ok",NET TV
+http://103.156.71.22:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="channel ok",RTV
+http://103.156.71.22:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="channel ok",METRO TV
+http://103.156.71.22:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="channel ok",TVRI WORD
+http://103.156.71.22:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="channel ok",CARTON-LINK
+http://103.156.71.22:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="channel ok",ANIMAL PLANET
+http://103.156.71.22:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="channel ok",BOMERANG-MVB
+http://103.156.71.22:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="channel ok",ANIMEX
+http://103.156.71.22:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="channel ok",MY KID
+http://103.156.71.22:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="channel ok",23-NAT GEOGRAPI-LINK
+http://103.156.71.22:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="channel ok",DISCOVERY-LINK
+http://103.156.71.22:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="channel ok",HISTORY
+http://103.156.71.22:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="channel ok",HBO HD
+http://103.156.71.22:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="channel ok",HBO HIT
+http://103.156.71.22:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="channel ok",GALAXY
+http://103.156.71.22:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="channel ok",GALAXI PREMIUM
+http://103.156.71.22:8000/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="channel ok",CINEMEX
+http://103.156.71.22:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="channel ok",CCM
+http://103.156.71.22:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="channel ok",CELESTIAL-MOVIEST
+http://103.156.71.22:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="channel ok",CINEMA WORD
+http://103.156.71.22:8000/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="channel ok",ROCK ENTER
+http://103.156.71.22:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="channel ok",ROCK ACTION
+http://103.156.71.22:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="channel ok",THRILL
+http://103.156.71.22:8000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="channel ok",KIX
+http://103.156.71.22:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="channel ok",HBO FAMILY
+http://103.156.71.22:8000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="channel ok",TVN MOVIEST
+http://103.156.71.22:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="channel ok",PARAMOUNT
+http://103.156.71.22:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="channel ok",WARNER TV
+http://103.156.71.22:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="channel ok",Z BIOSKOP
+http://103.156.71.22:8000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="channel ok",IMC FILM
+http://103.156.71.22:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="channel ok",CITRA BIOSKOP
+http://103.156.71.22:8000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="channel ok",TLC
+http://103.156.71.22:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="channel ok",AFN ASIA FOOT
+http://103.156.71.22:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="channel ok", k+
+http://103.156.71.22:8000/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="channel ok",21-SPON 1
+http://103.156.71.22:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="channel ok",22-SPON 2
+http://103.156.71.22:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="channel ok",BEIN 1
+http://103.156.71.22:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="channel ok",BEIN 3
+http://103.156.71.22:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="channel ok",SUPER SPORT 1
+http://103.156.71.22:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="channel ok",SUPER SPORT 2
+http://103.156.71.22:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="channel ok",SUPER SPORT 3
+http://103.156.71.22:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="channel ok",SUPER SPORT 5
+http://103.156.71.22:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="channel ok",UNIFI SPORT
+http://103.156.71.22:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="channel ok",TVRI -SPORT
+http://103.156.71.22:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="channel ok",MTV 90S
+http://103.156.71.22:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="channel ok",MTV LIVE
+http://103.156.71.22:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="channel ok",24-TVN -LINK
+http://103.156.71.22:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="channel ok",AL BARJAH
+http://103.156.71.22:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="channel ok",AXN
+http://103.156.71.22:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="channel ok",BBS TV
+http://103.156.71.22:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="channel ok",BN TV
+http://103.156.71.22:8000/play/a0du/index.m3u8
+#EXTINF:-1 group-title="channel ok",DAI TV
+http://103.156.71.22:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="channel ok",GEO WILD
+http://103.156.71.22:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="channel ok",HBO SIG
+http://103.156.71.22:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="channel ok",JAWA POS TV
+http://103.156.71.22:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="channel ok",MAGNA CHANEL
+http://103.156.71.22:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="channel ok",MAKKAH
+http://103.156.71.22:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="channel ok",MALEO
+http://103.156.71.22:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="channel ok",MENTARI
+http://103.156.71.22:8000/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="channel ok",ONE HD
+http://103.156.71.22:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="channel ok",POP TV
+http://103.156.71.22:8000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="channel ok",SALING SAPA
+http://103.156.71.22:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="channel ok",TV 9
+http://103.156.71.22:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="channel ok",TV MU
+http://103.156.71.22:8000/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="channel ok",VTV
+http://103.156.71.22:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="channel ok",GANDRUNG
+http://103.156.71.22:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="channel ok",JOWO
+http://103.156.71.22:8000/play/a0d6/index.m3u8
+
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",ANTV HD
 http://103.166.27.2:800/play/a01g
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",Aswaja TV
